@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityInfo.API", "CityInfo.API\CityInfo.API.csproj", "{FB1954A9-CF47-485B-BC22-BD6D20689579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Debug|x86.ActiveCfg = Debug|x86
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Debug|x86.Build.0 = Debug|x86
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Release|x86.ActiveCfg = Release|x86
+		{FB1954A9-CF47-485B-BC22-BD6D20689579}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B611F4-0DA9-4BCC-91CC-F1CE73DA30C3}
+	EndGlobalSection
+EndGlobal
